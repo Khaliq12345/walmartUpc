@@ -1,0 +1,5 @@
+hrequests[all]
+fastapi[all]
+python-dotenv
+selectolax
+the-retry
